@@ -1,2 +1,2 @@
 # portfolio-react
-Simple react portfolio... nothing special
+Simple react portfolio... nothing special 🙂
